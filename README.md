@@ -4,11 +4,17 @@ System do dodawania, edycji i usuwania pojazdów, z funkcją powiadomień o zbli
 
 ## 🔧 Technologie
 
-- Vue 3
-- Vite
-- TailwindCSS
-- Laravel Vite Plugin (dla środowiska Laravel)
-- HTML5 QR Code Scanner
+Backend: Laravel 11+ (PHP 8.2+)
+
+Frontend: Vue 3 + Inertia.js
+
+Baza danych: MySQL lub PostgreSQL
+
+Build tool: Vite
+
+Styling: TailwindCSS
+
+Inne: Laravel Vite Plugin, HTML5 QR Code Scanner
 
 ## 📦 Instalacja lokalna
 
