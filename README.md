@@ -52,13 +52,3 @@ Autor: Marta Wendt
 Repozytorium: https://github.com/martawendt/fleet-manager
 
 
-📁 **Wgraj plik `README.md` do katalogu `fleet-manager/`**  
-Następnie zatwierdź i wypchnij do GitHuba:
-
-```bash
-git add README.md
-git commit -m "📘 Add project README"
-git push origin main
-
-
-
